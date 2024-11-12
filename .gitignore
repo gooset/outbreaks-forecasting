@@ -11,8 +11,6 @@ env/
 
 # Distribution and build files
 *.whl
-*.egg
-*.egg-info/
 build/
 dist/
 
