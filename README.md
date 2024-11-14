@@ -14,7 +14,6 @@ This project leverages advanced machine learning to predict and assess arbovirus
   - Random Forest classification  
   - Mutual information-based feature selection  
   - Advanced feature engineering  
-  - Class imbalance handled prior to modeling to ensure reliable results
 
 ## Installation
 
