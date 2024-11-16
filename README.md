@@ -1,11 +1,11 @@
 # Arbovirus Risk Prediction Project
 
-This project leverages advanced machine learning to predict and assess arbovirus risks, including dengue, across multiple cities. By integrating weather data, temporal features, and sophisticated modeling, it provides actionable insights into potential outbreaks. Class imbalance issues are addressed prior to modeling to ensure robust predictions.
+This project employs advanced machine learning to predict and evaluate arbovirus risks, including dengue, across multiple cities. By integrating weather data, temporal patterns, and robust predictive modeling, it delivers actionable insights to anticipate and mitigate potential outbreaks. Careful preprocessing ensures data quality and model reliability.
 
 ## Key Features
 
 - **City-Level Risk Scoring**  
-  Predictive categorization (Low, Medium, High) and feature importance analysis for each city.
+  Predictive categorization (Low, Medium, High) and feature importance analysis.
 
 - **Time Series Forecasting**  
   Using Prophet for multi-city predictions and statistical validation to forecast potential outbreaks.
